@@ -2,3 +2,12 @@
 20240425	06:59:40	6db79c2a-71f8-422d-898e-1addc564d22a	GET	undefined	/css/style.css
 20240425	07:10:50	82b0a35b-2a52-44e3-9672-e7237aa55a37	GET	undefined	/index
 20240425	07:10:51	6b9c0bd7-a612-47e9-8581-8604a5a9b6c8	GET	undefined	/css/style.css
+20240425	11:16:18	cb044624-9019-4580-9bf2-7c9ed512a507	GET	undefined	/
+20240425	11:16:19	3dc6707b-d9c0-4f98-bcfe-bcfa8545b271	GET	undefined	/favicon.ico
+20240425	11:18:40	58bdb684-0f03-4990-bdc1-45a3f5c323c0	GET	undefined	/
+20240425	11:18:40	39396fe3-9585-4d33-b25f-45e586f4eadf	GET	undefined	/css/style.css
+20240425	11:18:41	67637978-84a9-4d7c-974f-07657a10ed77	GET	undefined	/favicon.ico
+20240425	11:30:30	cf6d6e71-11b3-418d-b0d1-d7d21300d235	GET	undefined	/
+20240425	11:30:30	10547df8-2b27-41c1-a1b0-5463ea73edc9	Error: Not allowed by CORS
+20240425	11:34:21	1ac21661-6a09-4c50-96d0-2e173e2a3b47	GET	undefined	/cliff
+20240425	11:34:22	f56de535-1b6a-4aa0-8d60-60dfed12be48	GET	undefined	/css/style.css
