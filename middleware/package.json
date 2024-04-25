@@ -1,15 +1,16 @@
 {
-  "name": "express_js",
+  "name": "middleware",
   "version": "1.0.0",
-  "description": "Express tutorial",
   "main": "server.js",
   "scripts": {
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "Cliff Mbithuka",
+  "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
+    "cors": "^2.8.5",
     "date-fns": "^3.6.0",
     "express": "^4.19.2",
     "uuid": "^9.0.1"

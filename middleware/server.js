@@ -1,9 +1,23 @@
 const express = require('express');
 const app = express();
-
 const path = require('path');
+const { logger } = require('./middleware_work/logEvents');
 const PORT = process.env.PORT || 3500;
 
+//custom middleware logger
+app.use(logger);
+
+
+//built-in middleware to handle urlencoded data
+//in other words, form data;
+//'content-type: application/x-www-form-urlencoded'
+app.use(express.urlencoded({ extended: false }));
+
+//built-in middleware for json
+app.use(express.json());
+
+//serve static files
+app.use(express.static(path.join(__dirname, '/public')));
 
 app.get('^/$|/index(.html)?', (req, res) => {
     // res.sendFile('./views/index.html', {root: __dirname});
@@ -44,8 +58,6 @@ const three = (req, res, next) => {
 }
 
 app.get('/chain(.html)?', [one, two, three]);
-
-
 
 
 

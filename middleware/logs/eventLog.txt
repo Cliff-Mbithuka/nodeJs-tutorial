@@ -1,0 +1,4 @@
+20240425	06:59:39	4f9f3aaa-03cb-49ae-9b55-5f66953efc0c	GET	undefined	/index
+20240425	06:59:40	6db79c2a-71f8-422d-898e-1addc564d22a	GET	undefined	/css/style.css
+20240425	07:10:50	82b0a35b-2a52-44e3-9672-e7237aa55a37	GET	undefined	/index
+20240425	07:10:51	6b9c0bd7-a612-47e9-8581-8604a5a9b6c8	GET	undefined	/css/style.css
