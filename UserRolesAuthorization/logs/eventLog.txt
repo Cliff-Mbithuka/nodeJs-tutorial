@@ -1,0 +1,56 @@
+20240425	06:59:39	4f9f3aaa-03cb-49ae-9b55-5f66953efc0c	GET	undefined	/index
+20240425	06:59:40	6db79c2a-71f8-422d-898e-1addc564d22a	GET	undefined	/css/style.css
+20240425	07:10:50	82b0a35b-2a52-44e3-9672-e7237aa55a37	GET	undefined	/index
+20240425	07:10:51	6b9c0bd7-a612-47e9-8581-8604a5a9b6c8	GET	undefined	/css/style.css
+20240425	11:16:18	cb044624-9019-4580-9bf2-7c9ed512a507	GET	undefined	/
+20240425	11:16:19	3dc6707b-d9c0-4f98-bcfe-bcfa8545b271	GET	undefined	/favicon.ico
+20240425	11:18:40	58bdb684-0f03-4990-bdc1-45a3f5c323c0	GET	undefined	/
+20240425	11:18:40	39396fe3-9585-4d33-b25f-45e586f4eadf	GET	undefined	/css/style.css
+20240425	11:18:41	67637978-84a9-4d7c-974f-07657a10ed77	GET	undefined	/favicon.ico
+20240425	11:30:30	cf6d6e71-11b3-418d-b0d1-d7d21300d235	GET	undefined	/
+20240425	11:30:30	10547df8-2b27-41c1-a1b0-5463ea73edc9	Error: Not allowed by CORS
+20240425	11:34:21	1ac21661-6a09-4c50-96d0-2e173e2a3b47	GET	undefined	/cliff
+20240425	11:34:22	f56de535-1b6a-4aa0-8d60-60dfed12be48	GET	undefined	/css/style.css
+20240426	12:01:33	1e293d59-1019-4fca-933d-1350ff11b176	GET	undefined	/subdir
+20240426	12:01:58	0337831e-5d59-4775-959b-1328b47dfc10	GET	undefined	/subdir
+20240426	12:02:06	fa3f68c9-632b-42a1-b050-ace8efdb51d9	GET	undefined	/subdir/res
+20240426	12:02:06	54138026-2afd-4c04-8154-3a09674b48b1	GET	undefined	/css/style.css
+20240426	12:21:00	6b566bec-91c9-4104-bd21-ea2a20d74572	GET	undefined	/new-page.html
+20240426	12:21:01	d6800486-ae02-4c5e-b3a2-a7b764078fb8	GET	undefined	/css/style.css
+20240426	12:21:01	8d8daeb8-99f0-4620-93bd-f02ea20dd4da	GET	undefined	/img/img1.jpg
+20240426	12:21:26	945bf5fa-27ef-4cac-98ad-04105bba21f5	GET	undefined	/old-page.html
+20240426	12:21:26	495934ee-246b-4366-9276-35d35f19faab	GET	undefined	/new-page.html
+20240426	12:21:27	6efebf1d-944c-4e05-93e5-47dedc062c08	GET	undefined	/css/style.css
+20240426	12:21:27	d3148e09-5e9a-4f59-837b-86c7a3be69f1	GET	undefined	/img/img1.jpg
+20240426	12:21:38	15b1843a-34a1-4cc9-84e6-d61de82a92af	GET	undefined	/index
+20240426	12:21:38	78619a41-4149-42c4-8142-3831aaf852bc	GET	undefined	/css/style.css
+20240426	10:35:06	30cf55b2-6a85-41f8-81fa-e630c3d4a85f	GET	undefined	/employees
+20240426	10:37:03	802f857b-fbef-4082-8b74-88c78aefa760	POST	undefined	/employees
+20240426	10:38:45	191a46b6-a757-4fa0-ad1c-9ac3b0ff05a1	POST	undefined	/employees
+20240426	10:38:45	e471a5e6-b545-4557-aa9a-6cb39bf02348	SyntaxError: Expected double-quoted property name in JSON at position 10 (line 1 column 11)
+20240426	10:38:55	ae5b6c76-8f2b-4c8d-b42d-a6fa2199aed1	POST	undefined	/employees
+20240426	10:39:45	4e13a1b2-c9d2-45cc-a350-273f2ac8d381	POST	undefined	/employees
+20240426	10:39:45	300361d7-e649-4118-810f-7714816f978e	SyntaxError: Expected ',' or '}' after property value in JSON at position 31 (line 1 column 32)
+20240426	10:40:59	4f3b6529-0dd3-42fc-b118-101929eeabd3	POST	undefined	/employees
+20240426	10:40:59	d6298999-d210-4b34-b3f2-6f0b5ad7657c	SyntaxError: Expected ',' or '}' after property value in JSON at position 31 (line 1 column 32)
+20240426	10:42:21	1a0ab1c2-3f3e-4bd0-bbbc-f84ca2fa6c3b	POST	undefined	/employees
+20240426	10:43:20	dff8ff9c-7162-4160-b38b-b59be0c3b312	DELETE	undefined	/employees
+20240426	10:43:31	96955385-28de-4c35-95bc-08d8c8e49334	DELETE	undefined	/employees
+20240426	10:44:08	89fd2526-1f55-4878-b05f-5b728ead47e4	GET	undefined	/employees/1
+20240426	11:50:59	aea3c76c-77a7-4f57-89d0-bcb2b82648e4	POST	undefined	/register
+20240426	11:51:46	5addb0e3-6491-49c5-99c5-b5a037329f0f	POST	undefined	/register
+20240426	12:07:53	8624a26b-36e6-43c1-9d15-c3c373af02e5	POST	undefined	/auth
+20240426	12:08:01	ce26e256-dad5-495b-bfbd-972a2e351055	POST	undefined	/auth
+20240426	03:13:36	9a09208a-8833-44ed-93e4-9e684b80e621	POST	undefined	/auth
+20240426	03:14:36	4cb06bab-99f7-40d4-ad99-131e54a80817	GET	undefined	/employees
+20240426	03:34:08	c6fdd3f1-63fe-4a3d-817c-2426151d01d4	POST	undefined	/auth
+20240426	03:34:55	faa70841-0152-4a04-84c4-54c714d08c64	POST	undefined	/auth
+20240426	03:35:35	9cdfad20-9164-450d-8619-42057ba030bf	POST	undefined	/auth
+20240426	03:37:02	c6b3d418-8c82-4114-920a-4d0bc7d6fd13	GET	undefined	/employees
+20240426	03:37:24	151325d5-ad0e-4ce1-81f9-76eb553b3be8	GET	undefined	/employees
+20240426	03:37:30	5fec87b0-6be9-4938-8fb1-9fd38399568a	GET	undefined	/employees
+20240426	03:37:31	6fc40918-a039-4d1f-8dfd-dd536ff6dbf2	GET	undefined	/employees
+20240426	03:39:59	6ba8d0a9-b1c6-49a6-8b87-066b9eb0d9f8	GET	undefined	/employees
+20240426	04:40:21	7bb5284e-7e6c-4006-aa85-c9d7d7743ef8	POST	undefined	/auth
+20240426	04:40:22	6a8c4bca-15c0-474f-b953-7601fde9841a	SyntaxError: Unexpected token ';', ..."t1", "pwd"; "Aa$1234"... is not valid JSON
+20240426	04:40:47	b30f81c2-86b1-4a51-96e6-fd16a708d316	POST	undefined	/auth
