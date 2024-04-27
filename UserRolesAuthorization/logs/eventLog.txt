@@ -54,3 +54,22 @@
 20240426	04:40:21	7bb5284e-7e6c-4006-aa85-c9d7d7743ef8	POST	undefined	/auth
 20240426	04:40:22	6a8c4bca-15c0-474f-b953-7601fde9841a	SyntaxError: Unexpected token ';', ..."t1", "pwd"; "Aa$1234"... is not valid JSON
 20240426	04:40:47	b30f81c2-86b1-4a51-96e6-fd16a708d316	POST	undefined	/auth
+20240427	05:08:16	815ae3bd-0dfe-4282-84d8-8c2100443913	GET	undefined	/auth
+20240427	05:08:51	e41f4d4a-c0cb-420c-86e1-babaa5d2727a	GET	undefined	/auth
+20240427	05:09:46	6808ffda-a994-4f5c-a83e-dcfe239194a9	POST	undefined	/auth
+20240427	05:09:56	13f5947f-0556-4ee4-8a38-e239838080b8	POST	undefined	/auth
+20240427	05:10:53	fc57a6e6-4b68-49ad-993a-b6e2e771c1d9	GET	undefined	/employees
+20240427	05:11:43	b607f8dc-7a9b-4890-9433-2815eb7e844f	POST	undefined	/auth
+20240427	05:12:10	69027f95-8d0f-4e02-8ba7-6a786cef0317	GET	undefined	/employees
+20240427	05:12:11	cfa0c43b-bbf8-4d2a-a1bf-b1237e6463bf	TypeError: Cannot read properties of undefined (reading 'username')
+20240427	05:13:07	fa5930d2-4d6d-40d8-ad8e-d416685ec33e	GET	undefined	/employees
+20240427	05:21:50	90e0adbd-143d-4279-b04c-bd8e2d98f3fe	GET	undefined	/auth
+20240427	05:25:03	ebf1bf16-343a-45c1-94f5-a516778013f6	POST	undefined	/auth
+20240427	05:25:45	d277b467-77c0-45b8-b194-8e257f11c42b	GET	undefined	/employees
+20240427	05:26:12	342ee658-56c6-4814-96ff-e80c98e94eb8	POST	undefined	/employees
+20240427	05:29:11	633d43a5-5fb2-4152-b648-9f2bb252ff15	POST	undefined	/auth
+20240427	05:29:31	26f196c5-4a41-45b0-81d1-134893ecd326	GET	undefined	/employees
+20240427	05:29:31	bd4e1207-88ff-4a7e-adc4-559445c631b8	TypeError: Cannot read properties of undefined (reading 'username')
+20240427	05:30:30	3170d168-9101-4829-ba98-ee01853f546b	POST	undefined	/auth
+20240427	05:30:50	48c2887c-88a6-43c0-ada7-2c44565d711b	GET	undefined	/employees
+20240427	05:30:50	14393d79-89f8-4d90-945b-098484383f73	TypeError: Cannot read properties of undefined (reading 'username')
